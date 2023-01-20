@@ -101,4 +101,4 @@ Similarly , we can expose for view Reducers . Pls , see counter example.
 ```
 Rest , will be handled in consumer .
 
-For More Queries contact @VipulPathak
+For More Queries raise issues and contribute to improve
